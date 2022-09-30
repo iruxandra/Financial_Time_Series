@@ -28,7 +28,7 @@ _Understanding the data_:
 - The data spans over the period 2017 - 2022.
 - There are 2 kinds of data: Prices (btc_crop) and a Complete Dataset (bitcoin)
 
-_Features _(full dataset):
+_Features (full dataset):_
 - Open Time/Close Time: the time when the market opens and closes.
 - Open/close: opening and closing price on the given day (USD).
 - High/Low: highest and lowest price on the given day (USD).
