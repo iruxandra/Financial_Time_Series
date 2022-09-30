@@ -9,6 +9,7 @@ Questions to answer:
 
 
 **Summary** of Data Engineering training project:
+
 In the market of cryptocurrency the Bitcoins are the first currency which has gained significant important.
 To predict the market price and stability of Bitcoin in the crypto-market, a machine learning based time series analysis has been applies.
 Time-series analysis can predict the rise and falls in the price of Bitcoin. For this purpose, we have used ARIMA for time series analysis as a machine learning technique. The parameters on the basis of which we have evaluated these models are Root Mean Squared Error (RMSE), Mean Aboslute Error (MAE), and R2. 
