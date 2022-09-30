@@ -44,9 +44,9 @@ We didn't find any null values or any errors in the data type. The whole dataset
 
 2. Feature engineering:
 
-2.1. Labeled the 'Open Time' according to the US holiday calendar ('Weekend', 'Workday', 'Holiday').
+    2.1. Labeled the 'Open Time' according to the US holiday calendar ('Weekend', 'Workday', 'Holiday').
 
-2.2. Created a function to label time intervals in 'Open Time' to assign the description of the day time ('Morning', 'Afternoon', 'Evening', 'Late Night').
+    2.2. Created a function to label time intervals in 'Open Time' to assign the description of the day time ('Morning', 'Afternoon', 'Evening', 'Late Night').
 
 _Exploratory Data Analysis (EDA)_:
 - Filtered the data to only show the columns related to time and price (bc_crop)
