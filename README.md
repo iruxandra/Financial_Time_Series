@@ -41,8 +41,11 @@ _Features (full dataset):_
 _Cleaning and pre-processing_:
 1. Cleaned the data - converted the date to the datetime format, converted the rest of the columns into its correct data type, and checked for null values.
 We didn't find any null values or any errors in the data type. The whole dataset has 162583 entries and 23 columns
+
 2. Feature engineering:
+
 2.1. Labeled the 'Open Time' according to the US holiday calendar ('Weekend', 'Workday', 'Holiday').
+
 2.2. Created a function to label time intervals in 'Open Time' to assign the description of the day time ('Morning', 'Afternoon', 'Evening', 'Late Night').
 
 _Exploratory Data Analysis (EDA)_:
